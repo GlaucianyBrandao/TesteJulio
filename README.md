@@ -1,4 +1,5 @@
-📘 Project Name: Selenium Tests with JUnit in IntelliJ 📋 Overview This project is a test automation framework built using Selenium WebDriver and JUnit 5, developed in IntelliJ with Maven as the build tool. The framework is designed to automate web application testing, ensuring functionality, compatibility, and overall quality.
+📘 Project Name: Selenium Tests with JUnit in IntelliJ 
+📋 Overview This project is a test automation framework built using Selenium WebDriver and JUnit 5, developed in IntelliJ with Maven as the build tool. The framework is designed to automate web application testing, ensuring functionality, compatibility, and overall quality.
 
 📦 Technologies Used Java (JDK 11 or higher) Selenium WebDriver JUnit 5 Maven (Dependency management and build automation) WebDriverManager (Automatically manages browser drivers) IntelliJ IDEA (IDE for development and execution) 🚀 Features Automated browser actions (navigation, form filling, validations). Cross-browser testing using WebDriverManager. Test assertions using JUnit 5. Easy-to-maintain Page Object Model (POM) structure. Maven-based configuration for dependency management and build automation. 🔧 Prerequisites Ensure the following are installed on your system:
 
