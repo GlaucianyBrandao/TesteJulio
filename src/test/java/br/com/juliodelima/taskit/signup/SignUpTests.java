@@ -30,10 +30,7 @@ public class SignUpTests {
         navegador.findElement(By.id("password-sign-up")).sendKeys("12345");
         //Clicar no botão com Id btn-submit-sign-up
         navegador.findElement(By.id("btn-submit-sign-up")).click();
-        //Validar saudação
-        //String saudacaoAtual = navegador.findElement(By.className("me")).getText();
-        //Assertions.assertEquals("Hi, Glaucy", saudacaoAtual);
-        //O site mudou e não é mais possível fazer essa validação
+
         navegador.quit();
     }
 
